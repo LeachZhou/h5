@@ -173,7 +173,7 @@ function failHandler(t) {
     helpCount++;
     if (helpCount > 2) {
         if (confirm("是不是没有想象的那么简单？您有【一次机会】获得提示，点击关注公众号并回复【小心色狼怎么过】可以得到提示，是否需要提示？")) {
-            location.href = "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMDkzMzQxMQ=="
+            location.href = "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMDkzMzQxMQ==#wechat_redirect"
         };
         helpCount = 0
     }

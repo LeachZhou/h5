@@ -5,7 +5,7 @@
 * Copyright (c) 2011-2013 gskinner.com, inc.
 *
 * Distributed under the terms of the MIT license.
-* https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMDkzMzQxMQ==
+* https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMDkzMzQxMQ==#wechat_redirect
 *
 * This notice shall be included in all copies or substantial portions of the Software.
 */
